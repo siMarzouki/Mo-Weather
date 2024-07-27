@@ -1,5 +1,4 @@
-# Mo-Weather: Your Weather Forecast Companion
-
+# Mo Weather
 The Mo-Weather app provides users with accurate and up-to-date weather forecasts. It offers a clean and intuitive interface to check current conditions, forecasts, and weather-related information. In this version of the app, we introduce the `CircularProgressIndicator` widget to enhance user experience during data loading. We also delve into essential topics such as networking, JSON data handling, and HTTP requests, which are crucial for fetching and displaying weather data from an external API.
 
 ## Key Widgets Used
